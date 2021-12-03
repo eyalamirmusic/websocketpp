@@ -38,6 +38,9 @@ bin/Debug
 */RelWithDebInfo/*
 */*/RelWithDebInfo/*
 
+cmake*
+.idea
+
 # explicitly allow this path with /debug/ in it
 !websocketpp/transport/debug/*
 
